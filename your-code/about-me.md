@@ -1,3 +1,5 @@
+Hi my name is Pol.
+
 # Who am I: Pol Lorente
 
 * Where are you from? Palamós, a little town north from Barcelona.
@@ -5,6 +7,7 @@
 
 # Why am I here
 
+<<<<<<< HEAD
 * What has brought you to Ironhack? Learn Data Analytics in order to have a shift in my career.
 * What knowledge/skills do you expect to learn in this bootcamp? Data Analytics with Python and SQL, as well as to lear the thinking process that a data analyst undertakes during his/her job.
 
